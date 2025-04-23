@@ -1,7 +1,3 @@
-## Olá
-
-Pós Graduada em Engenharia de software - PUCMG
-Atuação com testes frontend e backend
-Mobile, Web e API
+## Olá Sou Elem - Pós Graduada em Engenharia de software - PUCMG com atuação com testes frontend, backend, Mobile, Web e API e sou de
 São José dos Campos - SP
 
